@@ -21,3 +21,10 @@ body{
 .container img{
   height: 200px;
 }
+
+@media (max-width:800px)
+{
+  .container{
+    font-size: 20px;
+  }
+}
